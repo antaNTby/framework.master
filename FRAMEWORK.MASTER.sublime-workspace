@@ -1,0 +1,538 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".osp/project.ini",
+			"settings":
+			{
+				"buffer_size": 18,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/PHP/PHP.sublime-build",
+					""
+				],
+				[
+					"Packages/PHP/PHP.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/PHP/PHP.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"phpfmt: toggle PSR2"
+			],
+			[
+				"phpcs",
+				"PHP Coding Standards Fixer: Fix this file (PHP Code Beautifier)"
+			],
+			[
+				"rempa",
+				"Package Control: Remove Package"
+			],
+			[
+				"inpa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"INSpa",
+				"Package Control: Install Package"
+			],
+			[
+				"insp",
+				"Package Control: Install Package"
+			],
+			[
+				"instpa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 101.0,
+		"history":
+		[
+			"help",
+			"clear",
+			"cls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/OSPanel/home/framework.master",
+		"/C/OSPanel/home/framework.master/.osp"
+	],
+	"file_history":
+	[
+		"/C/OSPanel/home/ant2025.os/admin/tpl/start.tpl.html",
+		"/C/OSPanel/home/ant2025.os/admin/smarty/compile_dir/ant2025^b3ecdbb0c747046c7b42491693d760e1f89410ac_0.file_admin.tpl.html.php",
+		"/C/OSPanel/home/ant2025.os/admin/tpl/admin.tpl.html",
+		"/C/OSPanel/home/ant2025.os/admin/core/functions/admin_functions.php",
+		"/C/OSPanel/config/PHP-8.3/default/templates/php.ini",
+		"/C/OSPanel/home/ant2025.os/admin/core/authentication.php",
+		"/C/OSPanel/home/ant2025.os/admin/admin.php",
+		"/C/OSPanel/home/ant2025.os/admin/core/const.php",
+		"/C/OSPanel/home/ant2025.os/index.php",
+		"/C/OSPanel/home/fr.loc/.osp/project.ini",
+		"/C/OSPanel/home/ant2025.os/vendor/smarty/smarty/src/Template/Source.php",
+		"/C/OSPanel/home/ant2025.os/admin/index.php",
+		"/C/OSPanel/home/ant2025.os/admin/core/login_html.php",
+		"/C/OSPanel/home/ant2025.os/admin/core/functions/registration_functions.php",
+		"/C/OSPanel/home/ant2025.os/vendor/thingengineer/mysqli-database-class/dbObject.md",
+		"/C/OSPanel/home/ant2025.os/vendor/thingengineer/mysqli-database-class/readme.md",
+		"/C/OSPanel/home/ant2025.os/admin/tpl/error_forbidden_login.tpl.html",
+		"/C/OSPanel/home/ant2025.os/admin/core/loginHtml.php",
+		"/C/OSPanel/home/ant2025.os/admin/functions/debug_functions.php",
+		"/C/OSPanel/home/ant2025.os/admin/functions/session_functions.php",
+		"/C/OSPanel/home/ant2025.os/admin/functions/expired_functions.php",
+		"/C/OSPanel/home/ant2025.os/admin/debuggerLog/exception.log",
+		"/C/OSPanel/home/ant2025.os/.gitignore",
+		"/C/OSPanel/home/ant2025.os/_2025_.sublime-project",
+		"/C/OSPanel/home/ant2025.os/admin/debuggerLog/exception--2025-02-27--11-52--9ba91eb0ab.html",
+		"/C/OSPanel/home/ant2025.os/admin/functions/admin_functions.php",
+		"/C/OSPanel/home/ant2025.os/vendor/tracy/tracy/src/Tracy/BlueScreen/BlueScreen.php",
+		"/C/OSPanel/home/ant2025.os/admin/functions/registration_functions.php",
+		"/C/tmp/exception.log",
+		"/C/OSPanel/logs/general.log",
+		"/C/OSPanel/home/ant2025.os/vendor/thingengineer/mysqli-database-class/MysqliDb.php",
+		"/C/OSPanel/home/ant2025.os/vendor/thingengineer/mysqli-database-class/dbObject.php",
+		"/C/OSPanel/home/ant2025.os/admin/trash.php",
+		"/C/OSPanel/home/ant2025.os/admin/core/database_connect.php",
+		"/C/Users/a/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/C/Users/a/AppData/Roaming/Sublime Text/Packages/User/Svelte5BUILD.sublime-build",
+		"/C/Users/a/AppData/Roaming/Sublime Text/Packages/User/svelte5.sublime-build",
+		"/C/Users/a/AppData/Roaming/Sublime Text/Packages/User/phpfmt.sublime-settings",
+		"/C/Users/a/AppData/Roaming/Sublime Text/Packages/User/Svelte.sublime-syntax",
+		"/C/OSPanel/home/user.auth/.osp/project.ini",
+		"/C/OSPanel/home/php_mobile_user_auth/.osp/project.ini",
+		"/C/Users/a/AppData/Roaming/Sublime Text/Packages/phpfmt/phpfmt.sublime-settings",
+		"/C/OSPanel/home/ant2025.os/classes/MysqliDb.php",
+		"/C/OSPanel/home/ant2025.os/vendor/smarty/smarty/src/CompilerException.php",
+		"/C/OSPanel/home/ant2025.os/vendor/thingengineer/mysqli-database-class/composer.json",
+		"/C/OSPanel/home/ant2025.os/composer.json",
+		"/C/OSPanel/home/ant2025.os/classes/dbObject.php",
+		"/C/OSPanel/home/ant2025.os/vendor/smarty/smarty/composer.json",
+		"/C/OSPanel/home/ant2025.os/classes/MyToasts.php",
+		"/C/OSPanel/home/ant2025.os/classes/MySQLMultiQuery.php",
+		"/C/OSPanel/home/antCMS.os/admin/core/bootstrap.php",
+		"/C/OSPanel/home/antCMS.os/_ANTCMS_.sublime-project",
+		"/C/OSPanel/home/antCMS.os/admin/css/uiAdmin.css",
+		"/C/OSPanel/home/ant2025.os/vendor/composer/installed.php",
+		"/C/OSPanel/logs/PHP-8.3/php_error.log",
+		"/C/Users/a/AppData/Roaming/Sublime Text/Packages/User/phpcbf.sublime-settings",
+		"/C/Users/a/AppData/Roaming/Sublime Text/Packages/User/phpcs.sublime-settings",
+		"/C/Users/a/AppData/Roaming/Sublime Text/Packages/Phpcs/phpcs.sublime-settings",
+		"/C/Users/a/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/C/OSPanel/logs/PHP-8.3/apache_error.log",
+		"/C/OSPanel/logs/PHP-8.3.log",
+		"/C/Users/a/AppData/Roaming/Sublime Text/Packages/phpcbf/Default (Windows).sublime-keymap",
+		"/C/Users/a/AppData/Roaming/Sublime Text/Packages/phpcbf/phpcbf.sublime-settings",
+		"/C/OSPanel/home/ant2025.os/.osp/project.ini",
+		"/C/OSPanel/home/ant2025.os/public/index.php",
+		"/C/OSPanel/logs/PHP-5.3-x64/php_error.log",
+		"/C/OSPanel/home/antMINSK.os/.osp/project.ini",
+		"/C/OSPanel/home/antCMS.os/admin/core/connect.php",
+		"/C/OSPanel/home/antCMS.os/admin/core/functions.php",
+		"/C/OSPanel/home/antCMS.os/.gitignore",
+		"/C/OSPanel/home/antCMS.os/admin/core/classes/antDataBase.php",
+		"/C/OSPanel/home/antCMS.os/admin/core/mysqli.php",
+		"/C/OSPanel/home/antCMS.os/PROJECT_antCMS.sublime-project",
+		"/C/OSPanel/home/antCMS.os/database_install/nixby_nixbydb.sql",
+		"/C/OSPanel/home/antCMS.os/admin/core/const.php",
+		"/C/OSPanel/home/antFlight.core/admin/index.php",
+		"/c/ospanel/home/antflight.core/public/index.php",
+		"/C/OSPanel/home/antFlight.core/.osp/project.ini",
+		"/C/OSPanel/home/antFlight.core/.gitignore",
+		"/C/OSPanel/home/antFlight.core/public/rrr/index.php",
+		"/C/OSPanel/home/antFlight.core/public/index.php",
+		"/C/OSPanel/home/antFlight.core/index.php",
+		"/C/OSPanel/home/antFlight.core/admin/sub/orders/neworder.php",
+		"/C/OSPanel/home/mySvelte.ant/svelteTEST.sublime-project",
+		"/C/OSPanel/home/mySvelte.ant/.gitignore",
+		"/C/OSPanel/logs/MySQL-8.2.log",
+		"/C/OSPanel/logs/api.log",
+		"/C/OSPanel/logs/scheduler.log",
+		"/C/OSPanel/logs/PHP-8.1.log",
+		"/C/OSPanel/home/mySvelte.ant/mySvelte____.sublime-project",
+		"/C/OSPanel/home/mySvelte.ant/Project_mySvelte.sublime-project",
+		"/C/OSPanel/home/mySvelte.ant/public/index.html",
+		"/C/OSPanel/home/mySvelte.ant/__help/интеграци.svelte",
+		"/C/OSPanel/home/mySvelte.ant/__help/компонент.svelte",
+		"/C/OSPanel/home/mySvelte.ant/__help/настройка.svelte",
+		"/C/OSPanel/home/mySvelte.ant/__help/пример1.svelte",
+		"/C/OSPanel/home/mySvelte.ant/my-app/package.json",
+		"/C/OSPanel/home/mySvelte.ant/__help/console.text",
+		"/C/OSPanel/home/mySvelte.ant/package.json",
+		"/C/OSPanel/home/mySvelte.ant/my-app/src/app.html",
+		"/C/OSPanel/home/mySvelte/public/index.html",
+		"/C/OSPanel/home/mySvelte/__help/habbr.svelte",
+		"/C/OSPanel/home/mySvelte/__help/console.text",
+		"/C/OSPanel/home/mySvelte/package.json",
+		"/C/OSPanel/config/menu.ini",
+		"/C/OSPanel/config/program.ini",
+		"/C/Users/a/AppData/Roaming/Sublime Text/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/C/Users/a/AppData/Local/Packages/Microsoft.Windows.DevHome_8wekyb3d8bbwe/TempState/Logs/DevHome/devhome20250207.dhlog",
+		"/C/ant_SSDs_data/_DEV_/Fira_Code_v6.2/specimen.html",
+		"/C/DEV/copilot/подскажи пример использования шаблонизатора smarty.html",
+		"/C/DEV/copilot/svelte 2.html",
+		"/C/DEV/copilot/как начать писать проект используя smarty и svelte",
+		"/C/Users/a/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			"",
+			"verifyPassword",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"HT;",
+			"<<<<HT",
+			">';",
+			"$bootstrap_",
+			"= '",
+			"$showDump = false",
+			"logo256",
+			"site_url",
+			"access_denied_html",
+			"Username",
+			"ERROR_FORBIDDEN",
+			"zend",
+			"Необходимо указать логин и пароль.",
+			"checkLogin__OLD",
+			"regAuthenticate",
+			"ADMIN_FILE",
+			"session_cache_expire",
+			"AccessDe",
+			"regAuthenticate",
+			"dump",
+			"set_cookie",
+			"passw",
+			"$_SESSION['log']",
+			"ACCES_DENIED_HTML",
+			"LOGO256",
+			"favicon.ico",
+			"last",
+			"enable",
+			"\"",
+			" '\n\" . ",
+			" #",
+			": ",
+			"_DIR_",
+			"setSessionStorage",
+			"$db->getOne",
+			"checkLogin",
+			"/static/",
+			"$smarty->display",
+			"salmon",
+			"vendor",
+			"../",
+			"ERROR_FORBIDDEN",
+			"media",
+			"rawQuery",
+			"query",
+			"returnType",
+			"where",
+			"public",
+			"returnType",
+			"like",
+			"customers",
+			"ReflectionClass"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"verifyPassword",
+			""
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".osp/project.ini",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"lsp_uri": "file:///C:/OSPanel/home/framework.master/.osp/project.ini",
+							"syntax": "Packages/INI/INI.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 126.0
+	},
+	"output.diagnostics":
+	{
+		"height": 126.0
+	},
+	"output.exec":
+	{
+		"height": 84.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/PHP/PHP.sublime-build",
+	"project": "FRAMEWORK.MASTER.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"start.tpl.html",
+				"ant2025.os\\admin\\tpl\\start.tpl.html"
+			],
+			[
+				"admin.tpl.html",
+				"ant2025.os\\admin\\tpl\\admin.tpl.html"
+			],
+			[
+				"admin/index.php",
+				"ant2025.os\\admin\\index.php"
+			],
+			[
+				"auth",
+				"ant2025.os\\admin\\core\\authentication.php"
+			],
+			[
+				"admin.php",
+				"ant2025.os\\admin\\admin.php"
+			],
+			[
+				"admin_functions",
+				"ant2025.os\\admin\\core\\functions\\admin_functions.php"
+			],
+			[
+				"errtpl",
+				"ant2025.os\\admin\\tpl\\error_forbidden_login.tpl.html"
+			],
+			[
+				"cons",
+				"ant2025.os\\admin\\core\\const.php"
+			],
+			[
+				"db.md",
+				"ant2025.os\\vendor\\thingengineer\\mysqli-database-class\\dbObject.md"
+			],
+			[
+				"ses",
+				"ant2025.os\\admin\\functions\\session_functions.php"
+			],
+			[
+				"const",
+				"ant2025.os\\admin\\core\\const.php"
+			],
+			[
+				"aut",
+				"ant2025.os\\admin\\core\\authentication.php"
+			],
+			[
+				"conne",
+				"ant2025.os\\admin\\core\\database_connect.php"
+			],
+			[
+				"MysqliDb",
+				"ant2025.os\\vendor\\thingengineer\\mysqli-database-class\\MysqliDb.php"
+			],
+			[
+				"trash",
+				"ant2025.os\\admin\\trash.php"
+			],
+			[
+				"Conne",
+				"ant2025.os\\admin\\core\\database_connect.php"
+			],
+			[
+				"bootstrap",
+				"admin\\core\\bootstrap.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

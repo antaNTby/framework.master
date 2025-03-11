@@ -23,4 +23,9 @@ class DefaultController extends AbstractController
     {
         echo '2';
     }
+
+    public function ass(Request $request): Response
+    {
+        return $this->render('ass', ['users' => $this->userModel->getAll()]);
+    }
 }

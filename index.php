@@ -18,16 +18,20 @@ use Twig\Loader\FilesystemLoader;
 
 $route  = new Route('/', ['_controller' => DefaultController::class, '_method' => 'index']);
 $route1 = new Route('/about', ['_controller' => DefaultController::class, '_method' => 'about']);
+$route2 = new Route('/ass', ['_controller' => DefaultController::class, '_method' => 'ass']);
 
 $routes = new RouteCollection();
 $routes->add('default', $route);
 $routes->add('about', $route1);
+$routes->add('ass', $route2);
 
-dump($routes);
+// dump($routes);
 
 $context = new RequestContext();
+// dump($context);
 
 $matcher = new UrlMatcher($routes, $context);
+dump($matcher);
 
 $parameters = $matcher->match(strtok($_SERVER['REQUEST_URI'], '?'));
 
@@ -35,6 +39,7 @@ $classname = $parameters['_controller'];
 $method    = $parameters['_method'];
 
 $request = Request::createFromGlobals();
+dd($request);
 
 $container = new DI\Container([
     Connection::class  => function () {
